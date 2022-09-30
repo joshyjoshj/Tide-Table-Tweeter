@@ -39,9 +39,9 @@ table
 table %>% save_kable("testtidetable.jpeg",zoom = 8)
 #store api keys 
 api_key <- "q506XF49ZRSQX2vnSaHULmALB"
-api_secret_key <- "XemeI1DhhSfK4ER5aHWrvKvvNgIpCIinhX5eAHoxWmmjzbXpdv"
+api_secret_key <- "secret key"
 access_token <- "1118102319583977472-i8BE1tmvqEWPoGsY36275lnDrh6ReS"
-access_token_secret <- "7Mmcb7akLFfQJlC1Yz8WPGMVMmb2oRZ4ee9glzCkTP75Z"
+access_token_secret <- "secret token"
 #Authenticate via web browser
 token <- create_token(
   app = "Tide Times Automater",
